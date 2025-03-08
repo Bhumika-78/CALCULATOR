@@ -1,8 +1,3 @@
-# CODSOFT
-Repository for web development tasks assigned during my internship at "CODSOFT"
-<br>
-Name - Bhumika
-<br>
 This is a basic calculator that perform basic arithmetic operations: addition, subtraction, multiplication and division.
 <br>
 Its border and buttons has the neon effect which make it visually appealing.
